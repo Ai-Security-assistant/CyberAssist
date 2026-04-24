@@ -1,0 +1,4 @@
+CyberAssist Mini 1.0 
+Base model  Tinyllama 
+Training data from Exploit.DB and CVEs vulns
+
